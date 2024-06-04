@@ -6,8 +6,13 @@ Explain how to install the project's dependencies using npm (Node Package Manage
 
 ### command:
 `mkdir namefolder`
+
 cd namefolder
+
 `git clone https://github.com/ronmadar/ReactMaterial.git`
+
+cd ReactMaterial
+
 `npm install`
 
 ## Available Scripts
