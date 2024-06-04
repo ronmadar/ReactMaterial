@@ -1,15 +1,14 @@
 # React App use MUI or ShadCN Material version 18.3.1 and node.js version 20.13.1
 
 
-### How clone ?
-
-git clone https://github.com/ronmadar/ReactMaterial.git.
-
 ## Package Installation:
 Explain how to install the project's dependencies using npm (Node Package Manager):
 
-command
-npm install
+### command:
+`mkdir namefolder`
+cd namefolder
+`git clone https://github.com/ronmadar/ReactMaterial.git`
+`npm install`
 
 ## Available Scripts
 
